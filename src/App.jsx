@@ -18,13 +18,7 @@ import {
   Shield,
   Star,
   Users,
-  Loader2,
-  CheckCircle,
-  AlertCircle,
-  Compress,
-  Code,
-  Hash
-} from 'lucide-react'
+  Loader2,import { CheckCircle, AlertCircle, Minimize, Code, Hash } from "lucide-react";'
 import './App.css'
 
 // Backend API base URL
